@@ -1,5 +1,6 @@
 # StudyMate
 StudyMate, was developed to enhance the course selection process by providing context-aware, personalized recommendations using advanced NLP and semantic search technology. This solution targets key student challenges like limited contextual understanding, decision fatigue, and difficulty navigating complex course data.
+
 Core Components and Technologies:
 SBERT (Sentence-BERT) for semantic embeddings.
 
